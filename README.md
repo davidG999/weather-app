@@ -1,3 +1,9 @@
+## Preview 👀
+
+![Weather app preview](https://user-images.githubusercontent.com/85896378/179296969-e73f777c-0cd9-4bcb-be9c-75321713d7fb.png)
+
+### [Try it out yourself! ☁](https://weather-app-d8l.pages.dev/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
